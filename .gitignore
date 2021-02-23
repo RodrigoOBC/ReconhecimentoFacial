@@ -261,6 +261,18 @@ dmypy.json
 /static/IMG/
 /static/GIF/
 
+
+# statics
+*.mp4
+*.jpg
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks
 
 
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/ReconhecimentoFacial.iml
+/.idea/vcs.xml
