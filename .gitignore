@@ -9,6 +9,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+
+
 # IPython
 profile_default/
 ipython_config.py
@@ -148,6 +150,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+venv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
